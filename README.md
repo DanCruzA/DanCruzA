@@ -1,9 +1,25 @@
 ### 👋 Hola, soy Daniel Cruz 
-Soy un estudiante de Ingeniería de Sistemas enfocado en ciberseguridad, estoy interesado en seguridad defensiva y forense digital. Me gusta analizar logs, detectar amenazas y aprender sobre herramientas como Wazuh, Wireshark y Volatility.  
+Soy estudiante de Ingeniería de Sistemas en la UCV (2025) y me enfoco en convertirme en **Ingeniero de Datos Junior**.  
+Me apasiona transformar datos en información estratégica y construir pipelines eficientes.
 
-🔹 **Tecnologías y herramientas:**  
-- 🛡️ Seguridad Defensiva: Wazuh, SIEM, Suricata, OSSEC  
-- 🔍 Análisis Forense: Autopsy, Volatility, Wireshark  
-- 📜 Linux y Windows Hardening  
+## 🛠 Tecnologías
+Python | SQL | PostgreSQL | MongoDB | Apache Airflow | AWS | Power BI
 
-📫 Conéctate conmigo en [LinkedIn](https://linkedin.com/in/dan-cruz-dc13/)  
+## 📫 Contacto
+- LinkedIn: [LinkedIn](https://linkedin.com/in/dan-cruz-dc13/)
+- Email: luis.dani1316@gmail.com
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 👋 Hi, I’m Daniel Cruz
+
+I’m a Systems Engineering student at UCV (2025) focusing on becoming a **Junior Data Engineer**.
+I’m passionate about transforming data into strategic insights and building efficient data pipelines.
+
+## 🛠 Technologies
+
+Python | SQL | PostgreSQL | MongoDB | Apache Airflow | AWS | Power BI
+
+## 📫 Contact
+- LinkedIn: [LinkedIn](https://linkedin.com/in/dan-cruz-dc13/)
+- Email: luis.dani1316@gmail.com
