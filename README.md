@@ -1,5 +1,5 @@
 ### 👋 Hola, soy Daniel Cruz 
-Soy estudiante de Ingeniería de Sistemas en la UCV (2025) y me enfoco en convertirme en **Ingeniero de Datos Junior**.  
+Soy estudiante de Ingeniería de Sistemas en la UCV (2026) y me enfoco en convertirme en **Ingeniero de Datos Junior**.  
 Me apasiona transformar datos en información estratégica y construir pipelines eficientes.
 
 ## 🛠 Tecnologías
