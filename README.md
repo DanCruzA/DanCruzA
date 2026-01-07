@@ -13,7 +13,7 @@ Python | SQL | PostgreSQL | MongoDB | Apache Airflow | AWS | Power BI
 
 ### 👋 Hi, I’m Daniel Cruz
 
-I’m a Systems Engineering student at UCV (2025) focusing on becoming a **Junior Data Engineer**.
+I’m a Systems Engineering student at UCV (2026) focusing on becoming a **Junior Data Engineer**.
 I’m passionate about transforming data into strategic insights and building efficient data pipelines.
 
 ## 🛠 Technologies
