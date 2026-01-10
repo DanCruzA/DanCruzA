@@ -3,7 +3,7 @@ Soy estudiante de Ingeniería de Sistemas en la UCV (2026) y me enfoco en conver
 Me apasiona transformar datos en información estratégica y construir pipelines eficientes.
 
 ## 🛠 Tecnologías
-Python | SQL | PostgreSQL | MongoDB | Apache Airflow | AWS | Power BI
+Python | SQL | PostgreSQL | MongoDB | Apache Airflow | AWS | Azure | Power BI
 
 ## 📫 Contacto
 - LinkedIn: [LinkedIn](https://linkedin.com/in/dan-cruz-dc13/)
@@ -18,7 +18,7 @@ I’m passionate about transforming data into strategic insights and building ef
 
 ## 🛠 Technologies
 
-Python | SQL | PostgreSQL | MongoDB | Apache Airflow | AWS | Power BI
+Python | SQL | PostgreSQL | MongoDB | Apache Airflow | AWS | Azure | Power BI
 
 ## 📫 Contact
 - LinkedIn: [LinkedIn](https://linkedin.com/in/dan-cruz-dc13/)
